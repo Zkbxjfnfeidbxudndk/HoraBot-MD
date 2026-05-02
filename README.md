@@ -9,7 +9,7 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb8Lj3aFCCoP47hM9g1s)
  
   
-  **A simple WhatsApp bot with a framework [MeowSab](https://github.com/deveni0/ws)** 
+  **A simple WhatsApp bot with a framework [Deadshot](https://github.com/deveni0/ws)** 
   
    [Installation](#-installation) • [Support](#-support) • [Features](#-features) • [Hosting](#-hosting)
 </div>
