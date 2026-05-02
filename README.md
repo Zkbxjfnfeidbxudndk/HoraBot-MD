@@ -5,7 +5,7 @@
   
   [![GitHub](https://img.shields.io/badge/GitHub-Nox-blue?style=for-the-badge&logo=github)](https://github.com/Zkbxjfnfeidbxudndk)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/33760509044)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner-green?style=for-the-badge&logo=whatsapp)](https://wa.me/212727621948)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Owner2-green?style=for-the-badge&logo=whatsapp)](https://wa.me/212727621948)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-orange?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb8Lj3aFCCoP47hM9g1s)
  
   
